@@ -1,7 +1,7 @@
 # MOVIE RATING PREDICTION: 
 
 AZURE GALLERY LINK:
-https://gallery.azure.ai/Experiment/Movierating-prediction-2
+https://gallery.cortanaintelligence.com/Experiment/Movierating-prediction-3
 
 # Description
 
